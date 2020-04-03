@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyIntentAppKotlin</string>
+    <string name="move_activity">PINDAH ACTIVITY</string>
+    <string name="move_activity_with_data">PINDAH ACTIVITY DENGAN DATA</string>
+    <string name="move_activity_with_object">PINDAH ACTIVITY DENGAN OBJEK</string>
+    <string name="dial_number">DIAL A NUMBER</string>
+    <string name="move_activity_with_result">PINDAH ACTIVITY UNTUK RESULT</string>
+    <string name="this_is_moveactivity">Ini MoveActivity</string>
+    <string name="data_received">Data Diterima</string>
+</resources>
